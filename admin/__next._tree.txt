@@ -1,0 +1,5 @@
+:HL["/ghajarcoffee-demo/_next/static/chunks/1t_1v-zzrhchj.css","style"]
+:HC["/",""]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"admin","h":96,"c":"$Q2"}]]
+0:{"b":"QABNEKvq5I7QOcYZ5i84x","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
